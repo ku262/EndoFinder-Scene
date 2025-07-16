@@ -1,0 +1,1 @@
+from EndoFinder.util.pos_embed import interpolate_pos_embed
