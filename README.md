@@ -1,6 +1,6 @@
 # EndoFinder: Online Lesion Retrieval for Explainable Colorectal Polyp Diagnosis Leveraging Latent Scene Representations
 
-A preliminary version of this work was published at [MICCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_24). Code is available at [EndoFinder-I](https://github.com/ku262/EndoFinder).
+A preliminary version of this work was published at [MICCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_24). Code is available at [here](https://github.com/ku262/EndoFinder).
 
 This work significantly extends that work by moving from 2D image retrieval to a 2.5D/3D scene retrieval paradigm. We achieve this by explicitly modeling polyps as scenes and leveraging multi-view
 perspectives to capture implicit 3D information within a latent
