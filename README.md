@@ -20,7 +20,7 @@ ______
 
   ```
   git clone git@github.com:ku262/EndoFinder-Scene.git
-  cd EndoFinder-SceneossFlow
+  cd EndoFinder-Scene
   
   pip3 install torch torchvision torchaudio 
   pip3 install -r requirements.txt
